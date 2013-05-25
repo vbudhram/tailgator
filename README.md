@@ -7,4 +7,4 @@ Details:
 
 The project contains the source code for the control box. It interfaces an ATmega32 processor to a LCD, stepper motors, A/D converters and photosensors.
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://www.youtube.com/watch?v=qbXmNgyDBNA)
+[![Tail-Gator](http://img.youtube.com/vi/qbXmNgyDBNA/0.jpg)](http://www.youtube.com/watch?v=qbXmNgyDBNA)
